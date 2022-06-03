@@ -1,5 +1,5 @@
 name: Report a bug 🐛
-about: Create a report to help us improve the Azure DevOps Resource Kit
+description: Create a report to help us improve the Azure DevOps Resource Kit
 title: "Bug: "
 labels: ["bug", "triage"]
 assignees: adrianhall
